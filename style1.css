@@ -1,0 +1,52 @@
+body{
+    background-image: url("background-image.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 4px;
+
+}
+.heading
+{
+    text-align: center;
+}
+.states img
+{
+   margin-left: 50px;
+   border-radius:25%;
+   margin-right:5px;
+}
+.states p
+{
+    margin-left:50px;
+}
+.states{
+    display:flex;
+   padding-left:120px;
+   /* background-color: antiquewhite; */
+}
+.states1
+{
+   display: flex;
+   /* background-color: aqua; */
+}
+.states1 img{
+    margin-left: 50px;
+   border-radius:25%;
+   margin-right:5px;
+}
+#mizoram
+{
+    margin-left: 60px;
+}
+#sikkim
+{
+    margin-left: 300px;
+}
+#arunachalpradesh
+{
+    margin-left: 180px;
+}
+#meghalaya
+{
+    margin-left: 300px;
+}

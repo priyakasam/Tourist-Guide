@@ -1,0 +1,41 @@
+.angkor-regular {
+    font-family: "Angkor", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+  }
+body{
+    background-image: url("HIKING TRIPS.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+    opacity: 0.8;
+} 
+h1{
+  margin-top: 200px;
+  margin-left: 750px;
+  color: rgb(34, 27, 27);
+  
+} 
+.button
+{
+  .secondary-button {
+    background-color: #888;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 1000px;
+   
+}
+.button{
+ padding-top: 300px;
+}
+
+.secondary-button:hover {
+    background-color: #666;
+}
+}
